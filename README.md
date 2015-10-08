@@ -1,10 +1,8 @@
-Notes on chess
-=====
+# Notes on chess
 
 > When a farmer's pig dies, the farmer mourns both the pig and the feed consumed by the pig (which must now be considered wasted).  When you exchange one of your well-developed pieces for an enemy's less-developed piece, you also lose all the turns (tempo) you put into your now-lost piece.
 
-
-###Eight rules for opening
+##Eight rules for opening
 (considered over when rooks are connected)
 
 1. develop your pieces
@@ -16,7 +14,7 @@ Notes on chess
 7. consider your opponent's moves and threats
 8. connect the rooks!
 
-###London openings
+##London openings
 
 ```
 1.d4 d5 2.Nf3 Nf6 3.Bf4
@@ -30,23 +28,31 @@ Notes on chess
 * if d4 pawn is attacked, capture with e3, thus opening e file for queen (and kingside rook if you castled kingside)
 * attack with QH5, NF3, NG5
 
-###Scoth opening
+##Scoth opening
 ```
 1. e4 e5
 2. Nf3 Nc6
 3. d4 
 ```
 
-###Progress
+## Considerations for each move
+
+* have a plan longer than the current move, even though your opponnent's moves will require reevaluation after each turn.  no plan is perfect, but every plan is still better than no plan at all.
+* look for any opportunities to capture or check.  the priority of check can allow some otherwise foolish moves to provide cover for attacks
+* look at the whole board.  consider each move of each piece.
+* look for opponent's opportunities to fork, pin, skewer, or check.  they might use priority of check against you, too!
+
+
+##Progress
 * in game with ed, he had material and positional lead; i kept him from making progress on his plans by attacking his queen (gaining a piece via fork), and then attacking his protected king
 * in game with ed, noticed that my rook pinned a pawn guarding another pawn in front of his king; i used this attack the second pawn with my queen, and mate in one two after that
 
-###Flaws/mistakes in past games
+##Flaws/mistakes in past games
 * in game against ed, retreated my bishop one square further than i should have; if i had stopped one square earlier, i could have put pressure on one of his pieces, or added support for one my own
 * often spent time swimming in opening
 * lost a game to ed in which i was up queen because i allowed a passed pawn to promote, winning the game almost instantly
 * still occasionally overlook threats: e.g. playing ed, my queen and bishop were on a diagonal, ed executed skewer with his bishop, and i lost my bishop
  
-###Notable games
+##Notable games
 * Morphy's opera game: sacrificed everything but rook and bishop, still mated in 16 moves
 * Fischer/Spassky game 6
